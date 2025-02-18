@@ -13,6 +13,7 @@ class PerfectSq
 			System.out.println(num+"  is a perfect Square");
 		else
 			System.out.println(num+" not a perfect Square");
+               System.out.println("code executed successfully");
 		
 		
 	}
